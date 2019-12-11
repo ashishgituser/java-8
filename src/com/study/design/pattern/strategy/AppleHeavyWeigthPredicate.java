@@ -1,4 +1,4 @@
-package com.study.strategy.design.pattern.strategy;
+package com.study.design.pattern.strategy;
 
 public class AppleHeavyWeigthPredicate implements ApplePredicate {
 
