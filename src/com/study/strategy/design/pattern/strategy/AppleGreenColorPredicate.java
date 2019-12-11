@@ -1,4 +1,4 @@
-package com.study.strategy;
+package com.study.strategy.design.pattern.strategy;
 
 public class AppleGreenColorPredicate implements ApplePredicate {
 

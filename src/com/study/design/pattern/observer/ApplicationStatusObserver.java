@@ -1,4 +1,4 @@
-package com.study.observer;
+package com.study.design.pattern.observer;
 
 public class ApplicationStatusObserver implements Observer {
 

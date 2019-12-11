@@ -1,4 +1,4 @@
-package com.study.strategy;
+package com.study.strategy.design.pattern.strategy;
 
 import java.util.ArrayList;
 import java.util.List;
